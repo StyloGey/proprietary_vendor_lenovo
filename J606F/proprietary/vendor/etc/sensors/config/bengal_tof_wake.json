@@ -1,0 +1,12 @@
+{
+  "config":{
+    "hw_platform": ["IDP"],
+    "soc_id": ["417", "420", "444", "445"]
+  },
+  "sns_tof_wake":{
+    "owner": "sns_tof_wake",
+    "tof_period": {"ver": "0","type": "flt",
+      "data": "200.0"
+    }
+  }
+}
